@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealTimeDatabaseSample</string>
+    <string name="user_name">ユーザー名：%1$s</string>
+</resources>
